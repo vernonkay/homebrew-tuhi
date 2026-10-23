@@ -1,6 +1,6 @@
 cask "tuhi" do
-  version "1.0.0"
-  sha256 "ecffdf2d62b7d1351bcad3533986cad6a4c0cbade01aa767238d1e520b6fa869"
+  version "1.0.1"
+  sha256 "86bc359eabaa8174bfbc160a97d080b084e7d646735123215b6dbb84f540cbd4"
 
   url "https://github.com/vernonkay/tuhi/releases/download/v#{version}/tuhi_#{version}_universal.dmg"
   name "tuhi"
